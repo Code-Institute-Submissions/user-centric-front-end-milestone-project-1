@@ -13,6 +13,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     /*background-color: #f2f2f2;*/
+    
+    /*image has been downloaded from pexels.com a website that allows you to use their images for free*/
     background: url("../images/guitar.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,16 +25,25 @@ body {
 /*-------------------------------------------------------header*/
 
 /*PEROSNAL REMINDER! DO NOT FORGET TO DELETE THE 1PX SOLID BLACK BODRDERS. THIS IS JUST TO GIVE ME AN IDEA OF HOW BIG THE ELEMENT IS, IT IS NOT PART OF THE DESIGN!*/
-
+header {
+    margin-bottom: 50px;
+}
 header .h1-deco{
+    background: url("../images/monkees.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
     border: 1px solid black;
     text-align: center;
     background-color: #e6e6e6;
     opacity: 0.5;
+    padding: 25px 0px 25px 0px;
 }
 header .h1-deco h1 {
+    font-size: 2rem;
     font-weight: 300;
-    color: #262626;
+    color: #ffffff;
 }
 
 nav ul {
@@ -58,12 +69,66 @@ nav ul li {
 nav ul a{
     border: 1px solid black;
     text-decoration: none;
-    color: #40a820;
     font-weight: 300;
 }
 nav ul a:hover {
     text-decoration: none;
 }
+
+
+/*------------------------------------------------------section*/
+
+section article h1 {
+    font-weight: 400;
+    color:  #e6e6e6;
+    text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
+}
+article {
+    margin: 15px;
+    margin-bottom: 50px;
+}
+p {
+    font-weight: 400;
+    color:  #e6e6e6;
+    text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
+}
+
+
+/*band image underneath the intro article*/
+
+figure {
+    margin: 0;
+    margin-bottom: 50px;
+    
+}
+figure img {
+    width: 100%;
+    height: 300px;
+    opacity: 0.9;
+}
+figure p {
+    font-weight: 400;
+    color:  #e6e6e6;
+    text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
+    margin: 15px 15px 5px 15px;
+}
+figure p a {
+    border: 1px solid black;
+    text-decoration: none;
+    color: #e6e6e6;
+}
+figure p a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: #f2f2f2;
+}
+figcaption {
+    font-weight: 400;
+    color:  #e6e6e6;
+    text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
+    margin: 15px 0px 5px 15px;
+}
+
 
 /*------------------------------------------------------footer*/
 
@@ -75,6 +140,7 @@ footer {
     padding-top: 10px;
     padding-bottom: 5px;
     opacity: 0.5;
+    padding: 20px 15px 15px 15px;
 }
 footer span {
     border: 1px solid black;
@@ -88,5 +154,6 @@ footer span a {
 footer span a:hover {
     text-decoration: none;
     cursor: pointer;
-    background-color: #f2f2f2;
+    background-color: #f2f2f2; 
+    border-radius: 15px;
 }
