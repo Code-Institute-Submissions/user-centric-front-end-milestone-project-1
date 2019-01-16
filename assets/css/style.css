@@ -157,3 +157,21 @@ footer span a:hover {
     background-color: #f2f2f2; 
     border-radius: 15px;
 }
+
+
+/*The music page decorations*/
+
+/*------------------------------------------------------music page*/
+
+.music-page-h1 {
+        font-weight: 300;
+}
+.music-page-h1,
+.music-page-p {
+    color: #ffffff;
+    margin: 15px 15px 5px 15px;
+    text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
+}
+audio {
+    width: 100%;
+}
