@@ -99,7 +99,7 @@ article {
 p {    
     font-size: 2rem;
     font-weight: 400;
-    color:  #fafafa;
+    color:  #ffffff;
     text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
 }
 
@@ -122,13 +122,13 @@ figure img {
 }
 figure p {
     font-weight: 400;
-    color:  #e6e6e6;
+    color:  #ffffff;
     text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
     margin: 1.6rem 1.6rem 0.6rem 1.6rem;
 }
 figure p a {
     text-decoration: none;
-    color: #e6e6e6;
+    color: #ffffff;
 }
 figure p a:hover {
     text-decoration: none;
@@ -206,7 +206,7 @@ footer .social-media a i:hover {
 .page-h1,
 .page-p {
     text-align: center;
-    color: #fafafa;
+    color: #ffffff;
     margin: 1.6rem 1.6rem 3.2rem 1.6rem;
     text-shadow: -1px 0 #262626, 0 1px #262626, 1px 0 #262626, 0 -1px #262626;
 }
