@@ -27,7 +27,6 @@ body {
     background-clip:border-box;
     width: 100%;
     height: auto;
-    
 }
 
 
@@ -63,7 +62,7 @@ nav ul {
     padding: 0;
     opacity: 0.5;
 }
-nav ul li {
+nav ul li a {
     text-align: center;
     text-decoration: none;
     color: #262626;
@@ -73,21 +72,17 @@ nav ul a{
     text-decoration: none;
     font-weight: 300;
 }
-nav ul li:hover {
+nav ul li a:hover {
     cursor: pointer;
     background-color: #f2f2f2;
     transition-property: background-color;
     transition-duration: 0.2s;
     transition-timing-function: ease-in-out;
 }
-nav ul a:hover {
+nav ul li a:hover {
     text-decoration: none;
 }
 
-/*does not work, check it out later*/
-nav ul a:visited {
-      text-decoration: none;
-}
 /*------------------------------------------------------section*/
 
 section article h1 {
@@ -274,6 +269,9 @@ address .social-media a i:hover {
     }
     .modify-spacing {
         word-spacing: 0.5rem
+    }
+    video {
+        margin-bottom: 20rem;
     }
 }
 
