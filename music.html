@@ -34,10 +34,12 @@
             <h1 class="page-h1">Check out our music!</h1>
             <p class="page-p">Here are a few songs for our biggest fans! Enjoy them and let us know what you think of it.</p>
             
+            <div class ="flex-cont">
+                <div>
             <figure>
                 <figcaption>Clarksville</figcaption>
                 <img src="assets/images/cover.jpg" alt="cover one of monkees"></img>
-                <audio src="assets/audio/Clarksville.mp3" controls id="audioPlayer">
+                <audio src="assets/audio/Clarksville.mp3" controls="controls" id="audioPlayer" preload="auto">
                     Sorry, your webbrowser doesn't support HTML5!
                 </audio>
             </figure>    
@@ -45,15 +47,16 @@
             <figure>  
                 <figcaption>Daydream Believer</figcaption>
                 <img src="assets/images/cover1.jpg" alt="cover two of monkees"></img>
-                 <audio src="assets/audio/DaydreamBeliever.mp3" controls id="audioPlayer">
+                 <audio src="assets/audio/DaydreamBeliever.mp3" controls id="audioPlayer" preload="auto">
                     Sorry, your webbrowser doesn't support HTML5!
                 </audio>
              </figure> 
-             
+             </div>
+             <div>
              <figure>
                 <figcaption>Im a Believer</figcaption>
                 <img src="assets/images/cover2.png" alt="cover three of monkees"></img>
-                <audio src="assets/audio/ImABeliever.mp3" controls id="audioPlayer">
+                <audio src="assets/audio/ImABeliever.mp3" controls id="audioPlayer" preload="auto">
                     Sorry, your webbrowser doesn't support HTML5!
                 </audio>
              </figure>  
@@ -61,18 +64,28 @@
              <figure>
                 <figcaption>Stepping Stone</figcaption>
                 <img src="assets/images/cover3.jpg" alt="cover four of monkees"></img>
-                <audio src="assets/audio/SteppingStone.mp3" controls id="audioPlayer">
+                <audio src="assets/audio/SteppingStone.mp3" controls="controls" id="audioPlayer" preload="auto">
                     Sorry, your webbrowser doesn't support HTML5!
                 </audio>
             </figure>
+            </div>
+            </div>
             
     </section>
     <!--section end-->
     
     <!--footer start-->
-    <footer>
-        <span>&copy; Copyright 2019</span>  <span><a href="hire-us.html" target="_blank">HIRE US!</a></span>
+      <footer>
+        <div class="social-media">
+            <a href="#"><i class="fa fa-facebook-square"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-youtube"></i></a>
+        </div>
+        <div class="span-el">
+            <span>&copy; Copyright 2019</span> 
+            <span><a href="hire-us.html" target="_blank">HIRE US!</a></span>
+        </div>
     </footer>
-    <!--footer end-->
+    </script>
 </body>
 </html>
