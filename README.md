@@ -28,7 +28,7 @@ Fans, newcomers and potential clients have easy access to the websites content. 
 and social media links (which you will find on every page as well in the footer section) to their pages and youtube channel.
     
 
-do not forget link to wireframes
+You can find the wireframes created for this project on github by clicking on the following link : [Wireframes](https://github.com/Geronimo1992/user-centric-front-end-milestone-project/tree/master/Wireframes)
 
 
 # Features 
@@ -61,15 +61,17 @@ A few bugs occured in css because of a missing bracket or similar things but not
 
 # Deployment
 
-The website has been deployed by using github pages [github]()
+The website has been deployed by using github pages, see: [github](https://geronimo1992.github.io/user-centric-front-end-milestone-project/)
 
 # Credits
 
 The texts for the introduction section on the homepage is copied from wikipedia:
 
-Davy Jones: [Wikipedia page](https://en.wikipedia.org/wiki/Davy_Jones_(musician))
-Mickey Dolenz: [Wikipedia page](https://en.wikipedia.org/wiki/Micky_Dolenz)
-Peter Tork: [Wikipedia page](https://en.wikipedia.org/wiki/Peter_Tork)
-Michael Nesmith: [Wikipedia page](https://en.wikipedia.org/wiki/Michael_Nesmith)
+* Davy Jones: [Wikipedia page](https://en.wikipedia.org/wiki/Davy_Jones_(musician))
+* Mickey Dolenz: [Wikipedia page](https://en.wikipedia.org/wiki/Micky_Dolenz)
+* Peter Tork: [Wikipedia page](https://en.wikipedia.org/wiki/Peter_Tork)
+* Michael Nesmith: [Wikipedia page](https://en.wikipedia.org/wiki/Michael_Nesmith)
+* The background picture of the website is obtained form [Pexels.com](https://www.pexels.com/) where you can download the photos and used them for free. 
 
-The background picture of the website is obtained form [Pexels.com](https://www.pexels.com/) where you can download the photos and used them for free.
+Thank you to all the fotographers on [Pexels.com](https://www.pexels.com/) for letting us use those amazing pictures they make!
+Thank you to the contributing auhtors of the wikipedia pages, amazing job!
