@@ -71,7 +71,7 @@ The texts for the introduction section on the homepage is copied from wikipedia:
 * Mickey Dolenz: [Wikipedia page](https://en.wikipedia.org/wiki/Micky_Dolenz)
 * Peter Tork: [Wikipedia page](https://en.wikipedia.org/wiki/Peter_Tork)
 * Michael Nesmith: [Wikipedia page](https://en.wikipedia.org/wiki/Michael_Nesmith)
-* The background picture of the website is obtained form [Pexels.com](https://www.pexels.com/) where you can download the photos and used them for free. 
+* The background picture of the website is obtained form [Pexels.com](https://www.pexels.com/) where you can download the photos and use them for free. 
 
-Thank you to all the fotographers on [Pexels.com](https://www.pexels.com/) for letting us use those amazing pictures they make!
+Thank you to all the photographers on [Pexels.com](https://www.pexels.com/) for letting us use those amazing pictures they make!
 Thank you to the contributing auhtors of the wikipedia pages, amazing job!
